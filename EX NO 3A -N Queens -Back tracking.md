@@ -110,7 +110,8 @@ public class NQueensInput {
 ```
 
 ## Output:
-![alt text](13.1.png)
+<img width="498" height="364" alt="image" src="https://github.com/user-attachments/assets/afc38bbf-cf72-4715-b67d-e3c7c373e9bf" />
+
 
 ## Result:
 The program successfully implemented and the ouput is verified. 
